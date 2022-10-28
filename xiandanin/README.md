@@ -1,6 +1,7 @@
 * [Tampermonkey](http://www.tampermonkey.net/)
 * [GreasyFork](https://greasyfork.org/zh-CN)
 
+  https://github.com/FilipePS/Traduzir-paginas-web/releases
 ## Github显示具体Star数字
 将顶栏的数字缩写转换为具体数字
 
