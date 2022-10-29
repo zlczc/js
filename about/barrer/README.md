@@ -1,4 +1,4 @@
-# [仓库主页](https://github.com/zlczc/zip/tree/main/Translate/barrer)
+# [仓库主页](https://github.com/barrer/tampermonkey-script)
 # Tampermonkey 油猴子脚本
 
 ## translate.js
