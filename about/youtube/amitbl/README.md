@@ -1,3 +1,4 @@
+# [仓库主页](https://github.com/amitbl/blocktube)
 # BlockTube
 
 WebExtension for Chrome and Firefox.  
