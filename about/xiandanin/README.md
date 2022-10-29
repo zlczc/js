@@ -1,3 +1,4 @@
+* [仓库主页](https://github.com/xiandanin/LardMonkeyScripts)
 * [Tampermonkey](http://www.tampermonkey.net/)
 * [GreasyFork](https://greasyfork.org/zh-CN)
 * [网页翻译](https://github.com/FilipePS/Traduzir-paginas-web/releases)
