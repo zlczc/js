@@ -1,3 +1,4 @@
+# [仓库主页](https://github.com/butaixianran/AI-Translate-and-Search)
 # 版本
 0.0.4
 
