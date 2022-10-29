@@ -1,3 +1,4 @@
+# [仓库主页](https://github.com/butaixianran/AI-Translate-and-Search)
 # 重要说明
 **请前往[Chrome扩展版本的项目池](https://github.com/butaixianran/Chrome-Extension-AI-Translate-and-Search)。User Script脚本版本不再更新**  
 
