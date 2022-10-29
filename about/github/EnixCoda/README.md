@@ -1,4 +1,4 @@
-### [仓库主页]([https://github.com/zsokami/ACL4SSR](https://github.com/EnixCoda/Gitako))
+### [仓库主页](https://github.com/EnixCoda/Gitako)
 # Gitako
 
 <p align="center">
