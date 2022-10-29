@@ -1,3 +1,4 @@
+# [仓库主页](https://github.com/hakadao/bilibili-simple-home)
 # bilibili-simple-home
 
 b站仿搜索引擎样式首页风格
