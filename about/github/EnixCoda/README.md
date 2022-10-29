@@ -2,7 +2,7 @@
 # Gitako
 
 <p align="center">
-  <img width="192" src="src/assets/icons/Gitako.png" />
+  <img width="192" src="assets/Gitako.png" />
 </p>
 
 Gitako is a free file tree extension for GitHub, available on Chrome, Firefox and Edge.
